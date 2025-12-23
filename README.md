@@ -26,4 +26,5 @@ pip install -r requirements.txt
 streamlit run app.py
 
 Tech Stack
+
 PyTorch · Torchvision · Streamlit · Hugging Face Hub
