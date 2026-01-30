@@ -2,7 +2,6 @@
 
 A deep learning image classifier built with PyTorch and transfer learning, deployed as a Streamlit app on Hugging Face Spaces.
 
-🔗 Live Demo: https://huggingface.co/spaces/Trisrota/Catsvsdogs
 
 🔗 Model Weights: https://huggingface.co/Trisrota/cats-vs-dogs-resnet18
 
