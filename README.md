@@ -4,6 +4,7 @@ A deep learning image classifier built with PyTorch and transfer learning, deplo
 
 
 Model Weights: https://huggingface.co/Trisrota/cats-vs-dogs-resnet18
+
 Live demo:https://huggingface.co/spaces/Trisrota/Catsvsdogs
 
 
