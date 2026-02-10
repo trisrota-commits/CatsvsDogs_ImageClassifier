@@ -3,7 +3,10 @@
 A deep learning image classifier built with PyTorch and transfer learning, deployed as a Streamlit app on Hugging Face Spaces.
 
 
-🔗 Model Weights: https://huggingface.co/Trisrota/cats-vs-dogs-resnet18
+Model Weights: https://huggingface.co/Trisrota/cats-vs-dogs-resnet18
+Live demo:https://huggingface.co/spaces/Trisrota/Catsvsdogs
+
+
 
 In a nutshell:
 1. Task: Binary image classification (between cat and dog)
